@@ -177,5 +177,7 @@ class LateController extends Controller
         return view("latestudent.addlatestudentpopup",$listarr);
     }
 
+        public function test(){
 
+        }
 }
